@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "ausgewahltebrie00cicegoog_0007.png"; bbox 0 0 2998 4956; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 2262 1245 2387">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 2262 1245 2387">
+     <span class='ocr_line' id='line_1_1' title="bbox 654 2262 870 2305; baseline -0.009 -1"><span class='ocrx_word' id='word_1_1' title='bbox 654 2262 734 2304; x_wconf 76' lang='lat' dir='ltr'>ALLE</span> <span class='ocrx_word' id='word_1_2' title='bbox 748 2263 870 2305; x_wconf 74' lang='lat' dir='ltr'>REOHTE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 277 2293 1245 2387; baseline 0 -13"><span class='ocrx_word' id='word_1_3' title='bbox 277 2334 548 2376; x_wconf 78' lang='lat' dir='ltr'>EINSGHLIESSLIGH</span> <span class='ocrx_word' id='word_1_4' title='bbox 562 2335 619 2376; x_wconf 68' lang='grc' dir='ltr'>ΗΕΒ</span> <span class='ocrx_word' id='word_1_5' title='bbox 632 2293 1002 2387; x_wconf 53' lang='lat' dir='ltr'>UBERSETZUNGsfiEcHTS,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1017 2333 1245 2376; x_wconf 75' lang='lat' dir='ltr'><strong>VORBEHALTEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1504 4956">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1504 4956">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1504 4956; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1504 4956; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
